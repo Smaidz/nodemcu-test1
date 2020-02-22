@@ -1,1 +1,1 @@
-# nodemcu-test1
+# Skeleton project for Swagger
